@@ -1,4 +1,4 @@
-# Chat Service with FastAPI, Redis, and External API Integration
+# Chat Service with FastAPI, Redis, and External API OpenAI Compatible Integration
 
 This application aims to provide a chat service where users can send messages and receive responses.
 It uses FastAPI for the web framework, Redis for efficient storage of chat histories and integrates 

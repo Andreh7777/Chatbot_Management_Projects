@@ -6,6 +6,7 @@ with an external API for generating responses. The goal is to offer a straightfo
 chat experience for users while ensuring smooth management of chat data.
 
 Here’s what it does:
+
 Chat Service:
 the application provides a chat service where users can send messages and receive responses.
 Each chat session is identified by a `session_id`, allowing users to maintain a conversation over multiple interactions.

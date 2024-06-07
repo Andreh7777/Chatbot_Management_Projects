@@ -36,6 +36,7 @@ Various libraries are imported in the code, and I've included a "requirements.tx
 their installation. 
 
 Simply run: pip install -r requirements.txt
+
 Ensure that all necessary packages are installed and imported correctly before running the application.
 
 Example of usage:
